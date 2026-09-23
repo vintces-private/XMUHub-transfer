@@ -1,0 +1,29 @@
+# Managed by XMUHub (crates/xmuhub-server/src/transfer.rs) — do not edit by hand.
+name: transfer
+on:
+  workflow_dispatch:
+    inputs:
+      job:
+        description: job id
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: transfer
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: copy files into a release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 transfer.py "jobs/${{ inputs.job }}.json"
+      - name: commit results
+        run: |
+          git config user.name xmuhub-transfer
+          git config user.email transfer@users.noreply.github.com
+          git add results
+          git commit -m "results ${{ inputs.job }}"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
