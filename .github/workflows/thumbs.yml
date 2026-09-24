@@ -1,0 +1,36 @@
+# Managed by XMUHub (crates/xmuhub-server/src/thumbs.rs) — do not edit by hand.
+name: thumbs
+on:
+  workflow_dispatch:
+    inputs:
+      job:
+        description: job id
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: thumbs
+jobs:
+  make:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+      - name: install renderers
+        run: |
+          sudo apt-get update -qq
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y -qq --no-install-recommends \
+            poppler-utils libreoffice-writer libreoffice-impress libreoffice-calc \
+            fonts-noto-cjk fonts-wqy-microhei 7zip python3-pil > /dev/null
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y -qq 7zip-rar > /dev/null || echo "no rar support"
+      - name: make thumbnails
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 thumbs.py "jobs/thumbs-${{ inputs.job }}.json"
+      - name: commit results
+        run: |
+          git config user.name xmuhub-thumbs
+          git config user.email thumbs@users.noreply.github.com
+          git add results
+          git commit -m "thumbs ${{ inputs.job }}"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
