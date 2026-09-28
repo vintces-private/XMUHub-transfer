@@ -1,0 +1,30 @@
+{
+  "id": "1790618546",
+  "items": [
+    {
+      "ext": "part",
+      "key": "63b61089de72de19d1b869c0d7b17376c83c5fc3ec8675a769df610592fe5eec",
+      "size": 22011304,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/Atkins_Physical-Chemistry-11thzhongyiban_jiaocai_pdf_haxibiangeng-63b61089347c.part"
+      ]
+    },
+    {
+      "ext": "pptx",
+      "key": "5c180f8fbbbdd22de45c04b488f5f6178802727ec8b50eb4e3b5d54ce863835a",
+      "size": 23700385,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/caozuoxitong_kejian_v2-5c180f8fdbc7.pptx"
+      ]
+    },
+    {
+      "ext": "docx",
+      "key": "78782cad2ba4327e753a872f2dea4434751dde6dd072c452f47242cdedb25de8",
+      "size": 5675842,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/caozuoxitong_2020_qizhongshijuan-78782cad9fb7.docx"
+      ]
+    }
+  ],
+  "tag": "thumbs-1790618546"
+}
