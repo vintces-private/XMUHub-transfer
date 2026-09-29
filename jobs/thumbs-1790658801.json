@@ -1,0 +1,38 @@
+{
+  "id": "1790658801",
+  "items": [
+    {
+      "ext": "docx",
+      "key": "eee095e4c493c336cd10ca161542c13a46e003ecf6c46e6831f36f55163733db",
+      "size": 154972,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/junli_fuxitigang-eee095e471a3.docx"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "e4110d08c14c565f7c169fcc810c4fb4f0a0dd7477f1b123954bac70ea58bc9c",
+      "size": 307797,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/POE_2023_Final_A_answer-e4110d0854ce.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "aa1780ce3fe8523059d7f1769f9d12bd30471153714d4d771c8c1d30d0989d62",
+      "size": 269723,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/POE_2022_Final_A_answer-aa1780ce3c27.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "157528f1aa5a11edfdb58534aa7c3f7014c073877c64c9939377521d381375db",
+      "size": 83494347,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/physical_chemistry_2-157528f1585e.pdf"
+      ]
+    }
+  ],
+  "tag": "thumbs-1790658801"
+}
