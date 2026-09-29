@@ -1,0 +1,38 @@
+{
+  "id": "1790665082",
+  "items": [
+    {
+      "ext": "jpg",
+      "key": "b1dd101d5f1add3093de738072c9f1b2322efd7e3e767e139b1d4b19fae32cd5",
+      "size": 49904,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/mmexport1790664215914-b1dd101d4685.jpg"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "d4fed1283d21e6b4bd48f83bcf7332a3995bdc3191b227602238702900434fbc",
+      "size": 128196,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/fujian2_shamendaxue2025_2026xueniandierxueqifaxueyuanjieshouzhuanzhuanyegongzuofang-d4fed12856b4.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "bde46dd82e3ffe881b1bc330b037e02c7dd13987267dea703a857dea6377e034",
+      "size": 130532,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/fujian1_shamendaxuefaxueyuanzhuanzhuanyegongzuoxize-bde46dd80f98.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "12080a7ca61ebd6fb8a3574e41b62c141e6decc9534a2dbaea70d65165ca2824",
+      "size": 146891,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/fujian1_shamendaxuewulixueyuanzhuanzhuanyegongzuoxize-12080a7c7217.pdf"
+      ]
+    }
+  ],
+  "tag": "thumbs-1790665082"
+}
