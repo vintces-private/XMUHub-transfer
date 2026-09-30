@@ -1,0 +1,30 @@
+{
+  "id": "1790753680",
+  "items": [
+    {
+      "ext": "pdf",
+      "key": "56ee7dc2c6263013955649aa0048737de8d07ee4730d5939985d02983232fdd8",
+      "size": 1477108,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/4-zengsongde_hongguanjingjianbankuangjia-56ee7dc2d1a8.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "2fdbf551194c177abaa606bb4d30a4ef448a159a305121cd5368fd832992c006",
+      "size": 4243882,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/2-hongguan_jisuantizhuanxiang_1-2fdbf55179be.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "3b5ecb2dc503a299beace428549fac366caca859fb20c059298c5ae841ac714b",
+      "size": 10020570,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0002/3-hongguan_beisongbanziliao-3b5ecb2d64cd.pdf"
+      ]
+    }
+  ],
+  "tag": "thumbs-1790753680"
+}
