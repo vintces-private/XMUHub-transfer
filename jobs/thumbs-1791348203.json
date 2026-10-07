@@ -1,0 +1,30 @@
+{
+  "id": "1791348203",
+  "items": [
+    {
+      "ext": "doc",
+      "key": "43870d06b43f4ef7aa46ded47b5cfb0d3373131e60fbfb8b7a96e837aa10efa2",
+      "size": 153600,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/2026nianchengbenhuijibanqikaoshijuan_daan-43870d063228.doc"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "025ba1f1f18d63f0069d3c611743b6bb3c51841d71495d2daf63451daf0e9613",
+      "size": 4219358,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/zhongcaixiaqizhongdaan-025ba1f1c888.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "dfcabe5e64dc7211e5f5ce7c7d3b8a7228a9957a1405ac197be2ea23173c6672",
+      "size": 372830,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/junli_fuxitigang-dfcabe5ecdc2.pdf"
+      ]
+    }
+  ],
+  "tag": "thumbs-1791348203"
+}
