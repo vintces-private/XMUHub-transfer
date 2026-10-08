@@ -1,0 +1,27 @@
+{
+  "id": "1791437602",
+  "items": [
+    {
+      "ext": "7z",
+      "key": "m310c28b4f8822ad10c7b7f3c15f12bf062f87d15019bcf06b267a826737e46ca",
+      "size": 115685833,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/quankeyixue-398ba4a1453e.7z",
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/quankeyixue-65d27d7db746.7z",
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/quankeyixue-1d197220c908.7z",
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/quankeyixue-7a313b6919e9.7z",
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/quankeyixue-a8a1d1621cb8.7z",
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/quankeyixue-d406b3e67c1a.7z"
+      ]
+    },
+    {
+      "ext": "7z",
+      "key": "a6b5a09ce7e22dba12cb1ffe76f485f2b10f70f8280a221bc25c7d3d8950b356",
+      "size": 1198737,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/xinxueguanqianyanjishu-a6b5a09ced32.7z"
+      ]
+    }
+  ],
+  "tag": "thumbs-1791437602"
+}
