@@ -1,0 +1,25 @@
+{
+  "id": "1793112547",
+  "items": [
+    {
+      "ext": "zip",
+      "key": "m0ab8228782ae6ed87b130bcbab358f981f42d372c2257516242deb15616b4ffe",
+      "size": 42516504,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/2021nian06yuesiji-e420be7d86bf.zip",
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/2021nian06yuesiji-697831c56ca9.zip",
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/2021nian06yuesiji-4a9122ec0ff8.zip"
+      ]
+    },
+    {
+      "ext": "zip",
+      "key": "m32f0685c76350f2a651b562b9fd4d98ca1c44852033a075942eb19d1e2dc068a",
+      "size": 32818923,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/2022nian06yuesiji-7303c94c5e32.zip",
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/2022nian06yuesiji-ad4950d969d3.zip"
+      ]
+    }
+  ],
+  "tag": "thumbs-1793112547"
+}
