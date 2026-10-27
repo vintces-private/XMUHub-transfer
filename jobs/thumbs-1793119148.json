@@ -1,0 +1,30 @@
+{
+  "id": "1793119148",
+  "items": [
+    {
+      "ext": "pdf",
+      "key": "9210553a15c477f88f257ef200cd7535a60e75f4a6ca46fbff977e5afdd912a1",
+      "size": 227329,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/microeconomics-review-9210553a6713.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "a9656bd48bc336656dfd590f5279d8651140719d57839d6e0cc246ba8e48ff7b",
+      "size": 257971,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/microeconomics-solutions-a9656bd4f4c2.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "5a727f717388ef1fbe1305bf9b87834a26af7e046dc1e0b125b6be7b77d725f6",
+      "size": 364978,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0003/microeconomics-handbook-5a727f71c35b.pdf"
+      ]
+    }
+  ],
+  "tag": "thumbs-1793119148"
+}
