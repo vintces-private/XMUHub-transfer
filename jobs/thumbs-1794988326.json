@@ -1,0 +1,662 @@
+{
+  "id": "1794988326",
+  "items": [
+    {
+      "ext": "csv",
+      "key": "00782f5c4c877b2a9fef103719b21a8dc16a69022905e9fc99be1b40d9a7dc9c",
+      "size": 122341,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/20251114A-UV-00782f5c0972.csv"
+      ]
+    },
+    {
+      "ext": "c",
+      "key": "02ac39fe840f9f07d0c72fe830476a77656830fa5652f39db4361be6b276471b",
+      "size": 345,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/4-02ac39feebc9.c"
+      ]
+    },
+    {
+      "ext": "c",
+      "key": "0286d3cce41f01a5126971e6cc483f48c774e83876643d67f19e42780c3b6069",
+      "size": 474,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/2-0286d3cc36f3.c"
+      ]
+    },
+    {
+      "ext": "c",
+      "key": "00958e684af9a28bad33fe17c0eb966223a63d3cbd59daac0569ba7e83680b56",
+      "size": 207,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/11-00958e6854e9.c"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "fb3e60dc45095d0ed22018a188eb43ba0b81686bf6717beea4625f22a38a1577",
+      "size": 9290,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan6_jihuojiyuyizhijiduimeideyingxiang-fb3e60dc6382.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "ed1e396d7e8eceee7a62d7e853cedfc3a81ce77e3185cb3f23088d72327d60ba",
+      "size": 14679,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan5tu2-ed1e396d8170.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "ecd9d0bbcb95accfa177dfef8c12cb259151c5fb153a8dcaa422d5e7f2483adf",
+      "size": 6586,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/huagongjichushiyan-ecd9d0bb1470.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "dd03ede8116b563a9b440308968d97bfa1bfc79b547058a09cd2fb275fb8e410",
+      "size": 18874,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan5biaoge2-dd03ede8851a.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "d93898ed0d342289b3d6e2cc0ea3ae91cb60d23d8b4411be2cbe1f1c16655c99",
+      "size": 9304,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan2biaoge1-d93898edaf21.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "d64d56cbe0eb1b8ce86f6e117d2205ca687dea606ca45afdbc9b0e05a649d607",
+      "size": 13083,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyanshijiu-d64d56cb2a66.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "d5d39e888639840e30ce40d5bb91718b147bc26ad560d71aedf9bced77986d3f",
+      "size": 59965,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/25mayuanxuanzetikuhandaan-d5d39e889b9e.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "d2f5ecc4a3d4812a0c2a2104142f52ee5b703f189b5d5bd99b7de660305b5b55",
+      "size": 21638,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/liutiliudongzuli-d2f5ecc4dfb9.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "ccf1f86752ede0c636fe7a01f5f3e1ce19fb2a77662d6f379a383245dd2b503a",
+      "size": 10046,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/zuizhongbiaoge--ccf1f867775f.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "c85b990966fff2249d72134b001442dd1c932f46e8e5283a84ef07b724402ea3",
+      "size": 9456,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan5biaoge3-c85b9909664d.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "c6c5e0263dc7bf12b7196b4a6731b23cc0f5285d2a4bdc97ea440da099ca78d0",
+      "size": 14621,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan5tu1-c6c5e02620ba.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "c4784d879987eef5efdda1cad54dc6454699658a8b5bab4602c76e1e1ebfa38c",
+      "size": 15273,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan5biaoge1-c4784d8744e6.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "bf41601cf6d17cae38f84f3cd4f0ab11eeec564510c105a57ce5e6ef24d89a63",
+      "size": 14851,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/zuizhongtu-bf41601c9a30.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "b9205f18a1ad727a83163baae9befc9d829ae73e6cac1b93a2fdba2a1cbeea8a",
+      "size": 9401,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan2biaoge2-b9205f18bcb7.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "ac81bd847152c6c7a8bfad45e56aa8df7534006c374a6e8d84667bb6effd882b",
+      "size": 10112,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan8_2_biaoge1-ac81bd84aa39.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "ac13a5256397a8f821bd016270467e45f91482d8170928ddead3eeb4d84aa3f1",
+      "size": 9317,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan2biaoge2-ac13a5250c62.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "a4ed6d955007ec68fae94f0dcae415bc65c608a196836af7255de8506c18eac1",
+      "size": 8985,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/peizhi5_mL_5_nongsuojiao-a4ed6d95541c.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "a2d24416346caa594105658a90faddb6c4e93125141de40bcde9da915d567e05",
+      "size": 14817,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyanyi1-a2d244166008.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "9f2e0a0d6df817c6fdb58644ed3f02731cc4eed1cbc0d65398af7d6843497a89",
+      "size": 9150,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan8_1_biaoge3-9f2e0a0d7c8f.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "a1715daab4a8fc8381f76fe87de7f638734da66be06fc327717859e8acb6d0ea",
+      "size": 9443,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan6_pHduidianfenmeihuoxingdeyingxiang-a1715daa14d7.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "9b9e093b6ad64422bb7a9d505b486129d46142fccb405b116d01aad7945415db",
+      "size": 35168,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/chuanre-9b9e093b339e.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "9afb94d2c83e6bd408f85cccf9050981ad5946584e2db353f26ba55bc88c37ea",
+      "size": 9418,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan5biaoge1-9afb94d23dc1.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "8baf8c84677942c965729a6db41263552615fab41b9e0e324d5612d49c44e335",
+      "size": 9503,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan8_1_biaoge2-8baf8c84301f.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "85b548e625cb589b5e5fda237de5c8814b3fa46652efe2fab8d95a895a14dad9",
+      "size": 8411,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/dianziliansuoqizhenzhibiao-85b548e648ed.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "851ee2a35a984efeb2dfe5d55feb1da58b858b319a55c5a632e92f40a21d8807",
+      "size": 14431,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan2tu2-851ee2a3fb69.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "840857c598cbc7e86d8e5844bb57694a881e5c7ad13f5aa1cbb46ecc8327c55b",
+      "size": 14861,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan7_tu1-840857c5147a.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "78bb356aa704e66c2afec87cddccb3657a0c9a77312d8999cb73ba521e3465f7",
+      "size": 8979,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/peizhi10_mL_8_fenlijiao-78bb356abab4.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "7438147cd7ae8a21762c9635d5f333b34705af815b8000ebdd7ba4d78adb0e9a",
+      "size": 12387,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/yixueweishengwu1-7438147ce90b.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "729fb5ab447a77fa0db0eeb9ce3e2f248650fa187f08e7db082f5c7a7dfe837c",
+      "size": 15247,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan7biaoge2-729fb5abc4dc.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "66c83793335152ecd9916802ea1dc8bcb3ecf2acb2ac9346579bd8d372e05665",
+      "size": 9182,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan6_meidezhuanyixing-66c837936a91.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "6669cf14383d42e7db6a0fbe270ad69d13ab9396e63d7d591739afc6f855d495",
+      "size": 17097,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan8_tu1-6669cf148672.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "55920ffcf97abc03094ad1ab3edef0065f1578a0a09d0ed30f9e87f2ec8fddae",
+      "size": 9804,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan7biaoge1-55920ffc0f38.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "53058350ad7e49d44b8eef0ebd9d4e1ee0a507678cd0e214f317e47f44f4601d",
+      "size": 9061,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan5biaoge2-5305835026d1.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "4f9dee3fad417bc414da50b26e7bd3088bf6e538927b033f2a2c58a46d8ea227",
+      "size": 14754,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan2tu1-4f9dee3f4245.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "4da55a14d60ef05cf544138bfa2009caf2f53942bd0b1f395f6fc414dc47611e",
+      "size": 14320,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyanyi3-4da55a147034.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "4cdd23f3e201fc43a69b89bf2507e1261e5fe1010a5b56de698ac79f67813e50",
+      "size": 7606,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/20mingdaxueshengdejiazhiguanjianyanshuju-4cdd23f30bb5.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "4c4bdbdf788145eca51468be9ffa0c95c40e346168c21bc0e89817a63465d787",
+      "size": 10061,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/huiyuanzonghejiangjieanlijun-4c4bdbdf222f.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "48faa6bab43b79a73bd5231a791450f5c8e2320c26993d4fc6cff2616e3bf715",
+      "size": 48639,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/taitannikehaochengkedecunhuoshujuyong-48faa6baed93.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "4310819785f918da3d1f0d0185a96cdba42e113484411f60c93ca4728b1faa8f",
+      "size": 9839,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/dianyongpeiliang-431081971408.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "43d1b656ddded63939d3d68c88ad99655ff317b4673167061ed0b0d6891b7f85",
+      "size": 14584,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyanyi2-43d1b65610df.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "362bc3bf06d70d4d06abf2f65ca7e2b8074a8a2d5454170d625974b847581e24",
+      "size": 13591,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/jishengchongqimofuxi-362bc3bffdd5.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "407373c68841b3e216f44032e7e6ca93894d506c337f253230c3ba19c5284281",
+      "size": 210658,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/26PS1_Data_student-407373c68dd1.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "2dab467ab857f2f6bd6a01c5dc019196a12077c24cccb0d8ecd21f1be4aea86e",
+      "size": 27153,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/dawushiyan16_huoerxiaoying-2dab467adc63.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "1e91749a0e9300949e4c067241fa2229cd5b6a423931716c4ab43636b12564b0",
+      "size": 21278,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan8_2_tu1-1e91749a45ae.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "0914ffccdcc06c8f1ec091b814c5bdd72dd66cd7d87994f98c8d435c10922696",
+      "size": 9438,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan2biaoge3-0914ffcc0283.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "1321700dc7a0289bf22adeb9dcf7918128029526861c70ec192111fbe2d3f10d",
+      "size": 18457,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/NS_Plot-1321700dc2af.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "083aeb4d94386f892261ed18fe1d4f49c95ad8c8e19533e35d2f7a97612eea49",
+      "size": 9093,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyan8_1_biaoge1-083aeb4dce26.xlsx"
+      ]
+    },
+    {
+      "ext": "xlsx",
+      "key": "022f8e559fd4988e9da93d5239e35697e15d0c39705b9244be794f8eb0eff5a8",
+      "size": 9410,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shiyanyi4-022f8e55330a.xlsx"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "ba3b3a6cac4cab3c4c7ed9a7a13e91f70eac73c93aefddb9f86b9476aa174925",
+      "size": 281189,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/12_dishierzhang_shengzhi-ba3b3a6c444c.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "eee20ca8445f734965120f0f8ec837acadabadaf1b19bfd1619f8ea61f274e66",
+      "size": 5877932,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/25-26jiliangqimobiji--eee20ca806e8.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "f6726cd8cf94142b29a511dc3905f40dd0787a3b170ffcd578181d3191fbb791",
+      "size": 150859,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/26huxiqimohuiyi-f6726cd87092.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "ebd431bad44211df94982cda7e3dc0a2de81e4da85b9deaa3952ed660b848b5c",
+      "size": 372818,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/shengmingjichu3-ebd431ba233d.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "e8dfba47f282fc9a7232807f6f3b8844909f98fe4700a99142ffd3273e3c885c",
+      "size": 8062165,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/24-25hongguanqimofuxizhengli-e8dfba478a7b.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "eac70cad16b37fabf571793fd97ab375e85c6f6df2db8ba1fa93956b3a2a3b0e",
+      "size": 252714,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/file-16-17xiandaikongzhililunshijuan-eac70cadb6c5.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "e1ba8525622f965c9efe20d3f4d205cd76fab4316656799533be26918e564728",
+      "size": 527351,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/fenshengzongheti-e1ba8525a724.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "e0ca485056e1608ccf271fe178bb56f4c5ece0aa3f70d543c5d4db87cae9595a",
+      "size": 275443,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/file-23-24BasicImmqimojuan-e0ca4850d546.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "df3c07ca8d1bc32d51c6f86a53f848c6d0d8651c75d3f8ecb7d019ed8d1a170c",
+      "size": 176774,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/21zuoye-df3c07cabdff.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "de93ea3cee6955160a8bd4933fa357e631aa83974e336c60c616ae3524cb3625",
+      "size": 497979,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/19qiuqimo-de93ea3ce033.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "d8a32093e6f3620bc962861ec1c2734ad1aea1a5abe2f3e1dc70d87c37ab2662",
+      "size": 1186876,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/fenshengzhongdian-d8a320938e6f.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "d6cea1e1742eb3958bd2986308dd418770e62bbcde6216e1fb484026a400779a",
+      "size": 6749747,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/26guojingqimofuxibiji-d6cea1e19404.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "d075c4749d7fa7fa15a90c842a63f4e8aa9d01e50a22b945028dcfffc5aa8d78",
+      "size": 846943,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/fenshengtimu-d075c4741749.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "c758e1d9c9cb49578d8371359f67227921e15919dfb84aac7fcf82b788b7c908",
+      "size": 281617,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/dati-c758e1d9dd48.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "c1447b4fe1381d312846f50ebb38252862c03a31217b78a35a283fb4bbeb3cac",
+      "size": 50768,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/qimoyingwenjuan-c1447b4fbb57.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "b5d519c7d18bfe30412666e989f72db050948ba3de7d28315d6bea1016cd99f5",
+      "size": 19201777,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/file-21-22dawuCqimoAhandaan-b5d519c707db.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "c0e0e78a29a965f823ac4c745633f2920e16f996af2bd469dda25821c9bf077a",
+      "size": 104504,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/24-25junliqimoAjuan-c0e0e78ac0ca.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "beb5f76cfe7457e7cb7deeda616926e1448e4e0fa5cda56c68a44945aa949c98",
+      "size": 330598,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/fenshengwendajiandati-beb5f76ce11b.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "b181505fc3540133526098b5c97333897af3b517b693015bd13efa27af46886d",
+      "size": 461098,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/file-21dianzijishuhangyuanqizhongshijuan-b181505fff6e.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "9d4d14e4a8b85539d52d59029218e7546bbc4afa1ac1dc545a28c9f8b46716ed",
+      "size": 623620,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/25youjibqimojuan-9d4d14e4d1dc.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "acfc71a33ce5aebdd901aa0175bc28cf7b939eec85590b4f53cffa1de095bc9a",
+      "size": 192167,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/fenshenglianxiti1-acfc71a31133.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "8e4cf05fc8c2921243806d3b3b62b4f5538f603b767c2d1a46aaea0c221ea28d",
+      "size": 267233,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/fenshengdaticankaodaan-8e4cf05f781c.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "87edd59ace96def86427a6e0b4ed4a13ec301d4b8a4ecce3d2aca4e77605516f",
+      "size": 15304275,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/26weiguanqizhongfuxibiji-87edd59a994b.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "7c8bcdeb930be2dbd84dba3c111b87521e1ed8f15f9cec75f5c4722911ca3fe8",
+      "size": 410684,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/22-23qimojuan-7c8bcdeb7fac.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "6eff3e54c0ba95bc41d24a49cf7e11953cac0e13c9b7543c28728f2bd6fb6bc8",
+      "size": 79727,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/25-26junlishitihuiyi-6eff3e5423b9.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "6a60bbdba751f596ceb80c22e145e896325d155f3add4edad68b91f150fa35cc",
+      "size": 3429033,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/26jinrongqimobiji-6a60bbdb64d7.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "67207c9714428ebfc3ecd394db32bcae6128ec97446192e8d6507376cce5b1f8",
+      "size": 92727,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/26shenjingqimohuiyi-67207c97f136.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "65b04bd980c23b809cc756fc147bbc1ea7a9329125a7b8d321db6eab00b20907",
+      "size": 238943,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/26shengmingjichuzuzhiyushenglijuan-65b04bd95860.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "5f2dac070ddb8ac4d43fe8e6dfe67bc0657bd280734ab7fb0acd870003985a36",
+      "size": 4088201,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/file-2018dawuC-5f2dac07d9a3.pdf"
+      ]
+    },
+    {
+      "ext": "pdf",
+      "key": "5a124f65a74d73a0d8a81c04b004df78da03a0d82e741a1b7880e6090c32cdb9",
+      "size": 656678,
+      "urls": [
+        "https://github.com/vintces-private/XMUHub-store-001/releases/download/b0007/22fenzishengwuxuezhongdian-5a124f651e67.pdf"
+      ]
+    }
+  ],
+  "tag": "thumbs-1794988326"
+}
